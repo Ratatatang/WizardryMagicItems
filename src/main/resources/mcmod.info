@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wizardryitems",
+  "name": "Wizardry Items",
+  "description": "A mod that adds magic items for electroblob's wizardry",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Figgity"],
+  "credits": "Thanks to Electroblob for making the original mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
